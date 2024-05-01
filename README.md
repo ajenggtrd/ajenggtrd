@@ -8,7 +8,7 @@
 I'm currently learning Database and Data Mining 
 </p>
 
-How to reach me: ajengtysfi@gmail.com or IG: ajenggtrd
+How to reach me: ajengtysfi@gmail.com 
 
 <!---
 ajenggtrd/ajenggtrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
