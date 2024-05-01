@@ -4,13 +4,16 @@
 alt="Ajeng Tiara D." /></a>
 </p>
 
-- 👋 Hi, I’m @ajenggtrd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&pause=200&width=435&center=true&vcenter=true&lines=Mahasiswa+Universitas+Negeri+Semarang;Mathematics+Enthusiast" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ajeng-tiara-dilla/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+>/p>
+  
+📫 How to reach me: ajengtysfi@gmail.com or IG: ajenggtrd
 
 <!---
 ajenggtrd/ajenggtrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
